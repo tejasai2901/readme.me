@@ -74,3 +74,5 @@ for new line minimum three -
 ---
 
 - [ ] test
+
+-[x] test
