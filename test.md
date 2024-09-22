@@ -73,4 +73,4 @@ for new line minimum three -
 
 ---
 
-- [] test
+- [ ] test
